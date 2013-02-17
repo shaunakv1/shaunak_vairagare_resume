@@ -1,9 +1,9 @@
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,600,800|Archivo+Narrow);
 
-body {	padding-top: 20px; padding-bottom: 40px; font: 14px/1.7em 'Open Sans', arial, sans-serif; 
+body {	padding-top: 20px; padding-bottom: 40px; font: 14px/1.7em 'Open Sans', arial, sans-serif;
 		background: #DDD url(../img/bg.png) repeat 0 0; }
 
-h1, h2, h3,h4{	font-family: 'Archivo Narrow', sans-serif; font-weight:normal; line-height:normal; 
+h1, h2, h3,h4{	font-family: 'Archivo Narrow', sans-serif; font-weight:normal; line-height:normal;
 			padding:0; margin:0; margin-bottom:5px;	}
 
 h1{ font-size:52px; text-shadow:2px 2px #eee; }
@@ -21,7 +21,7 @@ footer a{ color: #999; }
 
 ul.unstyled{ margin-left: 20px; list-style: none; }
 
-.container { background: #FFF; border: 1px solid #DDD\9; padding:20px; border-radius: 15px; -moz-box-shadow: 0 0 5px rgba(0,0,0,.25); 
+.container { background: #FFF; border: 1px solid #DDD\9; padding:20px; border-radius: 15px; -moz-box-shadow: 0 0 5px rgba(0,0,0,.25);
 	-webkit-box-shadow: 0 0 5px rgba(0,0,0,.25); box-shadow: 0 0 5px rgba(0,0,0,.25); padding-bottom:10px; }
 
 .thumbnail .caption { padding: 3px; color: #555; }
